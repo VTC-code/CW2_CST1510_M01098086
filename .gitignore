@@ -3,4 +3,4 @@
 .venv/
 __pycache__/
 *.pyc
-platform.db
+platform.db.DS_Store
